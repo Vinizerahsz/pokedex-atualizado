@@ -1,0 +1,19 @@
+{
+  "name": "pokedex-atualizado",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r   ATUALIZADO: Como desenvolver uma pokedex em JavaScript\r </h1>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roger-Melo/pokedex-atualizado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roger-Melo/pokedex-atualizado/issues"
+  },
+  "homepage": "https://github.com/Roger-Melo/pokedex-atualizado#readme"
+}
